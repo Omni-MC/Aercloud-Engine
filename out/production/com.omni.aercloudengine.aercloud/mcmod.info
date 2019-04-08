@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "aercloudengine",
+    "name": "Omni's Aether Tech Compat",
+    "description": "Adds dusts, ingots, and gears for aether materials.",
+    "version": "1.0.0",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "assets/minecraft/aercloud engine.png",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "OmniMC",
+      "MCreator"
+    ],
+    "dependencies": ["aether_legacy", "aether"],
+    "dependants": [],
+    "requiredMods": ["aether_legacy", "aether"]
+  }
+]
