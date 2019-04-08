@@ -15,6 +15,7 @@ Dusts (Gravitite, Arkenium and Valkyrium dusts)
 Nuggets/Shards (Zanite shards, Ambrosium shards, Gravitite, Arkenium and Valkyrium nuggets)
 
  
+![alt text](https://i.imgur.com/zG2akus.png)
 
 
  Each item has some small lore entry totally unrelated to Oscar Payn's lore entries.
