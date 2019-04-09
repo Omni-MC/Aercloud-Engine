@@ -7,7 +7,7 @@ This mod is intended to be used with CraftTweaker or MineTweaker and has no use 
 
  
 
-# Items
+## Items
 
 Gears (Skyroot, Holystone, Zanite, Gravitite, Arkenium and Valkyrium gears)
 
@@ -23,10 +23,10 @@ Items in first release.
 
 I am a heavy follower of Aether lore so there will only be items that fit for certain materials. (i.e. zanite screws would be part skyroot, no zanite plates(maybe an alternative), no zanite or valkyrium wires )
 
-# To Do
+## To Do
 
 
-High Priority
+#### High Priority
 
 -Make Arkenium wire compatible with forge power, RF, EU, Mj, and µI.
 
@@ -39,7 +39,7 @@ High Priority
 -Valkyrium Alloy (Arkenium + Valkyrie Metal)
 
 
-Medium Priority
+#### Medium Priority
 
 -Ex Nihilo ore chunks and pieces.
 
@@ -48,7 +48,7 @@ Medium Priority
 -Plates
 
 
-Low Priority
+#### Low Priority
 
 -Circuit boards
 
