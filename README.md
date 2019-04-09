@@ -25,6 +25,7 @@ I am a heavy follower of Aether lore so there will only be items that fit for ce
 
 # To Do
 
+
 High Priority
 
 -Make Arkenium wire compatible with forge power, RF, EU, Mj, and µI.
@@ -37,6 +38,7 @@ High Priority
 
 -Valkyrium Alloy (Arkenium + Valkyrie Metal)
 
+
 Medium Priority
 
 -Ex Nihilo ore chunks and pieces.
@@ -44,6 +46,7 @@ Medium Priority
 -Screws
 
 -Plates
+
 
 Low Priority
 
