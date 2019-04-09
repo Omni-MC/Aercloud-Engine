@@ -17,4 +17,6 @@ item.cloudwoolsheet.name=Cloudwool Cloth
 item.aerliteinsulation.name=AerLite Wire Insulation
 item.coveredwire.name=Insulated Wire
 item.arkeniumwire.name=Arkenium Wire
+item.wirecutters.name=Wire Cutters
+item.hammer.name=Hammer
 itemGroup.tabaercloudengine=Aercloud Engine
