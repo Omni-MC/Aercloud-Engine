@@ -33,7 +33,7 @@ public class mcreator_cloudwoolSheet extends aercloudengine.ModElement {
 
         public ItemCustom() {
             setMaxDamage(0);
-            maxStackSize = 64;
+            maxStackSize = 32;
             setTranslationKey("cloudwoolsheet");
             setRegistryName("cloudwoolsheet");
             setCreativeTab(mcreator_aercloudEngine.tab);

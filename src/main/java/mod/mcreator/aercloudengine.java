@@ -110,6 +110,10 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 		elements.add(new mcreator_arkeniumDust());
 		elements.add(new mcreator_valkyrieDust());
 		elements.add(new mcreator_arkeniumRod());
+		elements.add(new mcreator_aerliteSheet());
+		elements.add(new mcreator_cloudwoolSheet());
+		elements.add(new mcreator_coveredWire());
+		elements.add(new mcreator_arkeniumWire());
 	}
 
 	public static class ModElement {

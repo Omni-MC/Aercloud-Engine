@@ -58,7 +58,7 @@ public class mcreator_aerliteSheet extends aercloudengine.ModElement {
         @Override
         public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
             super.addInformation(itemstack, world, list, flag);
-            list.add("Often used in construction of electrical appliances and machines. If twisted it could be turned into wires.");
+            list.add("Cloudwool coated in golden amber resin produces a waxy-rubberlike substance than can be used to insulate wires.");
         }
     }
 }

@@ -1,436 +1,397 @@
-[01:56:45] [main/INFO] [GradleStart]: Extra: []
-[01:56:45] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Lane/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
-[01:56:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[01:56:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[01:56:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
-[01:56:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[01:56:45] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2814 for Minecraft 1.12.2 loading
-[01:56:45] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jdk1.8.0_51\jre
-[01:56:45] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
-[01:56:45] [main/ERROR] [FML]: Full: C:\Users\Lane\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
-[01:56:45] [main/ERROR] [FML]: Trimmed: c:/users/lane/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
-[01:56:45] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[01:56:45] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
-[01:56:48] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
-[01:56:48] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
-[01:56:48] [main/INFO] [FML]: Searching C:\Users\Lane\Documents\GitHub\Aercloud-Engine\run\.\mods for mods
-[01:56:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
-[01:56:48] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
-[01:56:48] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
-[01:56:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:56:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:56:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[01:56:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:56:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:56:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:56:53] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[01:56:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:56:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:56:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[01:56:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:56:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:56:54] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[01:56:56] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player909
-[01:57:06] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
-[01:57:06] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
-[01:57:08] [Client thread/INFO] [FML]: -- System Details --
+[03:07:36] [main/INFO] [GradleStart]: Extra: []
+[03:07:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Lane/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[03:07:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:07:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:07:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[03:07:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:07:37] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2814 for Minecraft 1.12.2 loading
+[03:07:37] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jdk1.8.0_51\jre
+[03:07:37] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[03:07:37] [main/ERROR] [FML]: Full: C:\Users\Lane\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[03:07:37] [main/ERROR] [FML]: Trimmed: c:/users/lane/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[03:07:37] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[03:07:37] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[03:07:39] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[03:07:39] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[03:07:39] [main/INFO] [FML]: Searching C:\Users\Lane\Documents\GitHub\Aercloud-Engine\run\.\mods for mods
+[03:07:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[03:07:39] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[03:07:39] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[03:07:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:07:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:07:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[03:07:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:07:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:07:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:07:41] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[03:07:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:07:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:07:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[03:07:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:07:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:07:41] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[03:07:43] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player990
+[03:07:49] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[03:07:49] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[03:07:50] [Client thread/INFO] [FML]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 8.1 (amd64) version 6.3
 	Java Version: 1.8.0_51, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 100947032 bytes (96 MB) / 469762048 bytes (448 MB) up to 1883242496 bytes (1796 MB)
+	Memory: 186008152 bytes (177 MB) / 377487360 bytes (360 MB) up to 1883242496 bytes (1796 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'Intel' Version: '3.1.0 - Build 9.17.10.4459' Renderer: 'Intel(R) HD Graphics 3000'
-[01:57:09] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2814 Initialized
-[01:57:09] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[01:57:09] [Client thread/INFO] [FML]: Replaced 1036 ore ingredients
-[01:57:11] [Client thread/INFO] [FML]: Searching C:\Users\Lane\Documents\GitHub\Aercloud-Engine\run\.\mods for mods
-[01:57:13] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 473647353 nanos
-[01:57:14] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
-[01:57:15] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aercloudengine] at CLIENT
-[01:57:15] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aercloudengine] at SERVER
-[01:57:16] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Omni's Aether Tech Compat
-[01:57:17] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
-[01:57:17] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[01:57:17] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[01:57:17] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[01:57:17] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[01:57:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[01:57:17] [Client thread/INFO] [FML]: OBJLoader: Domain aercloudengine has been added.
-[01:57:17] [Client thread/INFO] [FML]: Applying holder lookups
-[01:57:17] [Client thread/INFO] [FML]: Holder lookups applied
-[01:57:17] [Client thread/INFO] [FML]: Applying holder lookups
-[01:57:17] [Client thread/INFO] [FML]: Holder lookups applied
-[01:57:17] [Client thread/INFO] [FML]: Applying holder lookups
-[01:57:18] [Client thread/INFO] [FML]: Holder lookups applied
-[01:57:18] [Client thread/INFO] [FML]: Applying holder lookups
-[01:57:18] [Client thread/INFO] [FML]: Holder lookups applied
-[01:57:18] [Client thread/INFO] [FML]: Injecting itemstacks
-[01:57:18] [Client thread/INFO] [FML]: Itemstack injection complete
-[01:57:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2825
-[01:57:26] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
-[01:57:26] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
-[01:57:26] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[01:57:27] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
-[01:57:27] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
-[01:57:39] [Client thread/INFO] [FML]: Max texture size: 8192
-[01:57:40] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
-[01:57:45] [Client thread/INFO] [FML]: Applying holder lookups
-[01:57:45] [Client thread/INFO] [FML]: Holder lookups applied
-[01:57:45] [Client thread/INFO] [FML]: Injecting itemstacks
-[01:57:45] [Client thread/INFO] [FML]: Itemstack injection complete
-[01:57:46] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
-[01:57:46] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
-[01:57:46] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN minecraft
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   domain minecraft is missing 1 texture
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     domain minecraft has 4 locations:
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Forge Mod Loader
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Minecraft Forge
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod aercloudengine resources at C:\Users\Lane\Documents\GitHub\Aercloud-Engine\build\libs\aercloudengine-1.3.jar
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain minecraft are:
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/items/arkenium_rod.png
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain minecraft
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
-[01:57:46] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
-[01:57:47] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
-[01:58:01] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
-[01:58:01] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
-[01:58:02] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod aercloudengine version 1.0.0 and it is now at version 1.3, things may not work well
-[01:58:02] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_log_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_skyroot_log
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:ferrosite
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:angelic_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:white_flower
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:crude_scatterglass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:incubator
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_brick_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:plumproot
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_button
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_twigs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_bookshelf
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:moa_egg
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:light_skyroot_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:altar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:multiblock_dummy
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_brick_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:chest_mimic
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:zanite_ore
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_brick
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_planks
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_teleporter
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_tulips
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_pillar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:present
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:gravitite_block
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_flower
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:locked_dungeon_block
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_dirt
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_beam
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:dungeon_block
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_pressure_plate
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_door
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_sapling
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_portal
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:crystal_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone_double_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_snow_layer
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:golden_oak_sapling
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:irradiated_flower
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_log
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_brick
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:green_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_cooler
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_bookshelf
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:thera_dirt
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_double_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_ice
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_button
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:multiblock_dummy_half
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:crude_scatterglass_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_pillar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_pressure_plate
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:masonry_bench
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:zanite_block
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_brick
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:barkshroom
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:enchanted_aether_grass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_bricks_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_fence_gate
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_pressure_plate
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:carved_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_fence
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick_double_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:zanite_block
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:crude_scatterglass_pane_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_fence
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:hellfire_double_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:hellfire_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_skyroot_beam
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_fence_gate
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holiday_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_crafting_table
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:green_swingtip
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_plank
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:carved_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mutant_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:green_dark_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:brettl_plant
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:dungeon_trap
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:candy_cane_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:pink_swingtip
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil_glass_pane
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:hellfirestone_brick_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:arctic_spikespring
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mossy_holystone_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:pillar_top
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:golden_oak_log
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:cloudwool_block
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:hellfirestone_pillar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:zanite_ore
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_sapling
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_blue_dark_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_ice_crystal
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:enchanted_gravitite
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quickshoot
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:sun_altar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:forgotten_rose
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wildcard
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_brick_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:pillar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_bed
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:green_light_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:present
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_fence
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:neverbloom
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:stoneshroom
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:hellfirestone_lantern
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_sapling
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_trapdoor
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_bookshelf
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wall_skyroot_sign
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_packed_ice
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:quicksoil
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:magnetic_shroom
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:orange_tree
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_log
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:crude_scatterglass_pane
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_fence_gate
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:standing_skyroot_sign
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_rock
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blue_light_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel_double_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_snow
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:outpost_campfire
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:angelic_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_pillar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_pillar_lit
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_pillar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:rusted_ferrosite
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mossy_holystone_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_portal
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:incubator
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_dirt
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_pane_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:ambrosium_ore
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_brick
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:gravitite_ore
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:hellfirestone_brick
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_button
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_pillar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_skyroot_planks
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:arkenium_door
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_pillar
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_brick_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:hellfire_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_fence
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_blue_light_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_furnace
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:light_skyroot_planks
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_fence_gate
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:ambrosium_torch
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_chest
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:purple_flower
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:icestone
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:unique_sapling
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:secret_skyroot_trapdoor
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blue_dark_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:ferrosite_sand
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_pressure_plate
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:berry_bush_stem
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_beam
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_brick_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_log
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:quicksoil_glass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_button
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:light_skyroot_log
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_brick_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_planks
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:ambrosium_torch
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blueberry_bush
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:gravitite_ore
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:carved_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_pane
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_ore
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aercloud
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil_glass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:hellfire_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil_glass_pane_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:freezer
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:enchanter
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_brick_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:angelic_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:thera_grass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_brick_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:woven_sticks
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:ambrosium_ore
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:light_skyroot_beam
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blue_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:candy_cane_block
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_brick_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:secret_skyroot_door
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:berry_bush
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_sapling
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_ladder
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_bricks
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:angelic_double_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_double_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_brick_decorative_lit
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_grass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blue_swingtip
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:valkyrie_grass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:carved_double_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil_glass_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:tall_aether_grass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:cloudwool_carpet
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_brick_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_brick_stairs
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:arkenium_ore
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_blue_skyroot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:treasure_chest
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_skyroot_decorative
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mutant_leaves_decorated
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_grass
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mossy_holystone_wall
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_slab
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:amberoot_leaves
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aercloud
-[01:58:02] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_bush
-[01:58:03] [Server thread/INFO] [FML]: Applying holder lookups
-[01:58:03] [Server thread/INFO] [FML]: Holder lookups applied
-[01:58:03] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@755b0c2c)
-[01:58:04] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[01:58:04] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@755b0c2c)
-[01:58:04] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@755b0c2c)
-[01:58:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[01:58:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
-[01:58:06] [Server thread/INFO] [FML]: Unloading dimension -1
-[01:58:06] [Server thread/INFO] [FML]: Unloading dimension 1
-[01:58:06] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 2, from 10
-[01:58:08] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
-[01:58:08] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[01:58:08] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2814,aercloudengine@1.3,mcp@9.42
-[01:58:08] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
-[01:58:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:58:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player909[local:E:96bd3046] logged in with entity id 19 at (620.1805524689961, 4.0, 62.448269795563704)
-[01:58:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player909 joined the game
-[01:58:10] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[01:58:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[01:58:11] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@79c13410[id=0cb96bf3-4c77-3186-b066-73e68c05fc28,name=Player909,properties={},legacy=false]
-com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
-	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
-	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3182) [Minecraft.class:?]
-	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
-	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
-[01:59:07] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[01:59:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[02:00:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[02:00:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[02:00:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player909 lost connection: Disconnected
-[02:00:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player909 left the game
-[02:00:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
-[02:00:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[02:00:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[02:00:35] [Server thread/INFO] [FML]: Unloading dimension 0
-[02:00:35] [Server thread/INFO] [FML]: Applying holder lookups
-[02:00:35] [Server thread/INFO] [FML]: Holder lookups applied
-[02:00:38] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
-[02:00:38] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
-[02:00:38] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
+[03:07:50] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2814 Initialized
+[03:07:51] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[03:07:51] [Client thread/INFO] [FML]: Replaced 1036 ore ingredients
+[03:07:52] [Client thread/INFO] [FML]: Searching C:\Users\Lane\Documents\GitHub\Aercloud-Engine\run\.\mods for mods
+[03:07:54] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 466461401 nanos
+[03:07:55] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[03:07:55] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aercloudengine] at CLIENT
+[03:07:55] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aercloudengine] at SERVER
+[03:07:57] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Aercloud Engine
+[03:07:58] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[03:07:58] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[03:07:58] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[03:07:58] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[03:07:58] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[03:07:58] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[03:07:58] [Client thread/INFO] [FML]: OBJLoader: Domain aercloudengine has been added.
+[03:07:58] [Client thread/INFO] [FML]: Applying holder lookups
+[03:07:58] [Client thread/INFO] [FML]: Holder lookups applied
+[03:07:58] [Client thread/INFO] [FML]: Applying holder lookups
+[03:07:58] [Client thread/INFO] [FML]: Holder lookups applied
+[03:07:58] [Client thread/INFO] [FML]: Applying holder lookups
+[03:07:58] [Client thread/INFO] [FML]: Holder lookups applied
+[03:07:58] [Client thread/INFO] [FML]: Applying holder lookups
+[03:07:58] [Client thread/INFO] [FML]: Holder lookups applied
+[03:07:58] [Client thread/INFO] [FML]: Injecting itemstacks
+[03:07:58] [Client thread/INFO] [FML]: Itemstack injection complete
+[03:07:59] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2825
+[03:08:06] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[03:08:06] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[03:08:06] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[03:08:07] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[03:08:07] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[03:08:18] [Client thread/INFO] [FML]: Max texture size: 8192
+[03:08:19] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[03:08:24] [Client thread/INFO] [FML]: Applying holder lookups
+[03:08:24] [Client thread/INFO] [FML]: Holder lookups applied
+[03:08:24] [Client thread/INFO] [FML]: Injecting itemstacks
+[03:08:24] [Client thread/INFO] [FML]: Itemstack injection complete
+[03:08:25] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[03:08:25] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[03:08:25] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[03:08:27] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[03:08:32] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[03:08:32] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[03:08:32] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_log_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_skyroot_log
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:ferrosite
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:angelic_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:white_flower
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:crude_scatterglass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:incubator
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_brick_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:plumproot
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_button
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_twigs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_bookshelf
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:moa_egg
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:light_skyroot_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:altar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:multiblock_dummy
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_brick_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:chest_mimic
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:zanite_ore
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_brick
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_planks
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_teleporter
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_tulips
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_pillar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:present
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:gravitite_block
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_flower
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:locked_dungeon_block
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_dirt
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_beam
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:dungeon_block
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_pressure_plate
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_door
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_sapling
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_portal
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:crystal_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone_double_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_snow_layer
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:golden_oak_sapling
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:irradiated_flower
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_log
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_brick
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:green_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_cooler
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_bookshelf
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:thera_dirt
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_double_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_ice
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_button
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:multiblock_dummy_half
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:crude_scatterglass_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_pillar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_pressure_plate
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:masonry_bench
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:zanite_block
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_brick
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:barkshroom
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:enchanted_aether_grass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_bricks_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_fence_gate
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_pressure_plate
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:carved_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_fence
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick_double_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:zanite_block
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:crude_scatterglass_pane_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_fence
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:hellfire_double_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:hellfire_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_skyroot_beam
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_fence_gate
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holiday_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_crafting_table
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:green_swingtip
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_plank
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:carved_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mutant_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:green_dark_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:brettl_plant
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:dungeon_trap
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:candy_cane_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:pink_swingtip
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil_glass_pane
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:hellfirestone_brick_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:arctic_spikespring
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mossy_holystone_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:pillar_top
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:golden_oak_log
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:cloudwool_block
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:hellfirestone_pillar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:zanite_ore
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_sapling
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_blue_dark_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_ice_crystal
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:enchanted_gravitite
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quickshoot
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:sun_altar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:forgotten_rose
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wildcard
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_brick_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:pillar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_bed
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:green_light_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:present
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_fence
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:neverbloom
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:stoneshroom
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:hellfirestone_lantern
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_sapling
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_trapdoor
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:skyroot_bookshelf
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wall_skyroot_sign
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_packed_ice
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:quicksoil
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:magnetic_shroom
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:orange_tree
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_log
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:crude_scatterglass_pane
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_fence_gate
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:standing_skyroot_sign
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_rock
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blue_light_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aerogel_double_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_snow
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:outpost_campfire
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:angelic_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_pillar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_pillar_lit
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_pillar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:rusted_ferrosite
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mossy_holystone_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_portal
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:incubator
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_dirt
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_pane_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:ambrosium_ore
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_brick
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:gravitite_ore
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:hellfirestone_brick
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_button
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_pillar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_skyroot_planks
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:arkenium_door
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_pillar
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_brick_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:hellfire_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_fence
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_blue_light_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_furnace
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:light_skyroot_planks
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_fence_gate
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:ambrosium_torch
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_chest
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:purple_flower
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:icestone
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:unique_sapling
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:secret_skyroot_trapdoor
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blue_dark_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:ferrosite_sand
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_pressure_plate
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:berry_bush_stem
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_brick_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_beam
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_brick_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_log
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:quicksoil_glass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_button
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:light_skyroot_log
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_brick_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_planks
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:ambrosium_torch
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blueberry_bush
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:gravitite_ore
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:carved_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:scatterglass_pane
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_ore
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aercloud
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil_glass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:holystone_brick_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:hellfire_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therawood_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:mossy_holystone_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil_glass_pane_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:freezer
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:enchanter
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_brick_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:angelic_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:thera_grass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_brick_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:woven_sticks
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:ambrosium_ore
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:light_skyroot_beam
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blue_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:candy_cane_block
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:therastone_brick_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:secret_skyroot_door
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:berry_bush
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_sapling
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:skyroot_ladder
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_bricks
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:angelic_double_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:holystone_double_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:sentrystone_brick_decorative_lit
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aether_grass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:icestone_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:blue_swingtip
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:valkyrie_grass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:carved_double_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:wisproot_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil_glass_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:tall_aether_grass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:cloudwool_carpet
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:faded_holystone_brick_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:agiosite_brick_stairs
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:arkenium_ore
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_blue_skyroot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:treasure_chest
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:dark_skyroot_decorative
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mutant_leaves_decorated
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether_legacy:aether_grass
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:mossy_holystone_wall
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:greatroot_slab
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:amberoot_leaves
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:quicksoil
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:aercloud
+[03:08:33] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world aether:highlands_bush
+[03:08:33] [Server thread/INFO] [FML]: Applying holder lookups
+[03:08:33] [Server thread/INFO] [FML]: Holder lookups applied
+[03:08:34] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@7ecf77cd)
+[03:08:34] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[03:08:35] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@7ecf77cd)
+[03:08:35] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@7ecf77cd)
+[03:08:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[03:08:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
+[03:08:36] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:08:36] [Server thread/INFO] [FML]: Unloading dimension 1
+[03:08:36] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 2, from 10
+[03:08:39] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[03:08:39] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[03:08:39] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2814,aercloudengine@1.4,mcp@9.42
+[03:08:39] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[03:08:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:08:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player990[local:E:647e5e1e] logged in with entity id 19 at (617.9884112498357, 4.0, 64.95212253307358)
+[03:08:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player990 joined the game
+[03:08:41] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[03:08:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:09:59] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[03:09:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:10:01] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[03:10:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:10:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:10:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:10:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player990 lost connection: Disconnected
+[03:10:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player990 left the game
+[03:10:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[03:10:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:10:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:10:02] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:10:02] [Server thread/INFO] [FML]: Applying holder lookups
+[03:10:02] [Server thread/INFO] [FML]: Holder lookups applied
+[03:10:06] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[03:10:06] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[03:10:06] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
