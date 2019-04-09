@@ -58,7 +58,7 @@ public class mcreator_arkeniumRod extends aercloudengine.ModElement {
         @Override
         public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
             super.addInformation(itemstack, world, list, flag);
-            list.add("Please ignore this item for now. Do not use it in recipes until I'm certain it's stable.");
+            list.add("Often used in construction of electrical appliances and machines. If twisted it could be turned into wires.");
         }
     }
 }

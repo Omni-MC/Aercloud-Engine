@@ -29,7 +29,7 @@ import java.util.ArrayList;
 public class aercloudengine implements IFuelHandler, IWorldGenerator {
 
 	public static final String MODID = "aercloudengine";
-	public static final String VERSION = "1.3";
+	public static final String VERSION = "1.4";
 	@SidedProxy(clientSide = "mod.mcreator.ClientProxyaercloudengine", serverSide = "mod.mcreator.CommonProxyaercloudengine")
 	public static CommonProxyaercloudengine proxy;
 	@Instance(MODID)

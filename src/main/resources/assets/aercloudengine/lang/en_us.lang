@@ -1,5 +1,5 @@
-item.valkyrienugget.name=Valkyrium Nugget
-item.valkyriedust.name=Valkyrium Dust
+item.valkyrienugget.name=Valkyrie Metal Nugget
+item.valkyriedust.name=Valkyrie Metal Dust
 item.gravititedust.name=Gravitite Dust
 item.holystonegear.name=Holystone Gear
 item.gravititegear.name=Gravitite Gear
@@ -11,6 +11,8 @@ item.gravititenugget.name=Gravitite Nugget
 item.zanitegear.name=Zanite Gear
 item.ambrosiumnugget.name=Ambrosium Shard
 item.zanitenugget.name=Zanite Shard
-item.valkyriegear.name=Valkyrium Gear
+item.valkyriegear.name=Valkyrie Metal Gear
 item.arkeniumrod.name=Arkenium Rod
+item.cloudwoolSheet.name=Cloudwool Cloth
+item.aerliteSheet.name=AerLite Wire Insulation
 itemGroup.tabaercloudengine=Aercloud Engine
