@@ -10,7 +10,9 @@ This mod is intended to be used with CraftTweaker or MineTweaker and has no use 
 # Items
 
 Gears (Skyroot, Holystone, Zanite, Gravitite, Arkenium and Valkyrium gears)
+
 Dusts (Gravitite, Arkenium and Valkyrium dusts)
+
 Nuggets/Shards (Zanite shards, Ambrosium shards, Gravitite, Arkenium and Valkyrium nuggets)
 
  
@@ -24,18 +26,27 @@ I am a heavy follower of Aether lore so there will only be items that fit for ce
 # To Do
 
 High Priority
+
 -Make Arkenium wire compatible with forge power, RF, EU, Mj, and µI.
+
 -Add a basic generator
+
 -Crafting tools (wire cutters, hammer, etc.)
+
 -Valkyrie Metal ore
+
 -Valkyrium Alloy (Arkenium + Valkyrie Metal)
 
 Medium Priority
+
 -Ex Nihilo ore chunks and pieces.
+
 -Screws
+
 -Plates
 
 Low Priority
+
 -Circuit boards
 
 -Anything else that I find.
