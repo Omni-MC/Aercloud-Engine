@@ -32,8 +32,6 @@ I am a heavy follower of Aether lore so there will only be items that fit for ce
 
 -Add a basic generator
 
--Crafting tools (wire cutters, hammer, etc.)
-
 -Valkyrie Metal ore
 
 -Valkyrium Alloy (Arkenium + Valkyrie Metal)
