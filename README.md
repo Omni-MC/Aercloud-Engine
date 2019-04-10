@@ -3,7 +3,8 @@ This is a tool for modpack developers to integrate tech mods into the aether mod
 
 
 More tech based things will be added as required.
-This mod is intended to be used with CraftTweaker or MineTweaker and has no use by itself.
+This mod is intended to be used with [CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker "CraftTweaker on Curseforge"),
+[MineTweaker](https://minecraft.curseforge.com/projects/minetweaker3 "MineTweaker3 on Curseforge"), or [ContentTweaker](https://minecraft.curseforge.com/projects/contenttweaker "ContentTweaker on Curseforge") and has no use by itself.
 
  
 
