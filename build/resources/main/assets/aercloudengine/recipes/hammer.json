@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    " RP",
+    " ST",
+    "S  "
+  ],
+
+  "key":{
+
+    "S": {
+      "item": "aether:skyroot_stick"
+    },
+
+    "T": {
+      "item": "aether:arkenium_strip"
+    },
+
+    "P": {
+      "item": "aether:arkenium"
+    },
+
+    "R": {
+      "item": "aercloudengine:arkeniumrod"
+    }
+  },
+
+  "result":
+  {
+    "item": "aercloudengine:hammer",
+    "count": 1
+  }
+}

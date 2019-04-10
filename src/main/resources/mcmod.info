@@ -12,8 +12,8 @@
     "authorList": [
       "OmniMC"
     ],
-    "dependencies": ["aether_legacy", "aether"],
+    "dependencies": ["aether"],
     "dependants": [],
-    "requiredMods": ["aether_legacy", "aether"]
+    "requiredMods": []
   }
 ]

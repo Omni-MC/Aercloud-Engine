@@ -58,7 +58,7 @@ public class arkeniumWire extends aercloudengine.ModElement {
         @Override
         public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
             super.addInformation(itemstack, world, list, flag);
-            list.add("Very dangerous when live. Do not touch without safety precautions.");
+            list.add("Crafting ingredient");
         }
     }
 }

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    " A ",
+    "AHA",
+    " A "
+  ],
+
+  "key":{
+
+    "H": {
+      "item": "aercloudengine:holystonegear"
+    },
+
+    "A": {
+      "item": "aether:arkenium_strip"
+    }
+
+  },
+
+  "result":
+  {
+    "item": "aercloudengine:arkeniumgear",
+    "count": 1
+  }
+}

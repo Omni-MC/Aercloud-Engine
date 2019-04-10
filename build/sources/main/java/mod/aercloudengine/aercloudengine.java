@@ -116,6 +116,7 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 		elements.add(new arkeniumWire());
 		elements.add(new wirecutters());
 		elements.add(new hammer());
+		elements.add(new wrench());
 	}
 
 	public static class ModElement {

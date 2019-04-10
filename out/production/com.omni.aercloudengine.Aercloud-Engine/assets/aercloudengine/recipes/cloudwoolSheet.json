@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+          [
+            " W ",
+            " C ",
+            "   "
+          ],
+  "key":
+  {
+    "C":
+    {
+      "item": "aether:cloudwool_block"
+    },
+    "W":
+    {
+      "item": "aercloudengine:wirecutters"
+    },
+
+    "result":
+    {
+      "item": "aercloudengine:cloudwoolsheet"
+    }
+  }
+}

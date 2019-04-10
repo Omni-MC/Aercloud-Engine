@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    " Z ",
+    "ZSZ",
+    " Z "
+  ],
+
+  "key":{
+
+    "S": {
+      "item": "aercloudengine:skyrootgear"
+    },
+
+    "Z": {
+      "item": "aether:zanite_gemstone"
+    }
+
+  },
+
+  "result":
+  {
+    "item": "aercloudengine:zanitegear",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    {
+      "item": "aercloudengine:aerliteinsulation"
+    },
+    {
+      "item": "aercloudengine:arkeniumwire"
+    },
+    {
+      "item": "aercloudengine:wirecutters"
+    }
+  ],
+
+  "result":
+  {
+    "item": "aercloudengine:coveredwire",
+    "count": 2
+  }
+}

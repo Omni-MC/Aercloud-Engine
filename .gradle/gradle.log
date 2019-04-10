@@ -36,7 +36,7 @@ javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: 
 	at org.gradle.api.internal.project.AbstractPluginAware.apply(AbstractPluginAware.java:46)
 	at org.gradle.api.internal.project.ProjectScript.apply(ProjectScript.java:34)
 	at org.gradle.api.Script$apply$0.callCurrent(Unknown Source)
-	at build_3wo46mhd6qbxxwaww2fo9dc87.run(C:\Users\Lane\Documents\GitHub\Aercloud-Engine\build.gradle:10)
+	at build_3wo46mhd6qbxxwaww2fo9dc87.run(C:\Users\Lane\Documents\GitHub\Aercloud-Engine\build.gradle:11)
 	at org.gradle.groovy.scripts.internal.DefaultScriptRunnerFactory$ScriptRunnerImpl.run(DefaultScriptRunnerFactory.java:90)
 	at org.gradle.configuration.DefaultScriptPluginFactory$ScriptPluginImpl$2.run(DefaultScriptPluginFactory.java:199)
 	at org.gradle.configuration.ProjectScriptTarget.addConfiguration(ProjectScriptTarget.java:77)

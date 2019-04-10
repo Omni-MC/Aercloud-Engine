@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    "AS ",
+    "STS",
+    " S "
+  ],
+
+  "key":{
+
+    "S": {
+      "item": "aether:skyroot_stick"
+    },
+
+    "T": {
+      "item": "aether:arkenium_strip"
+    },
+
+    "A": {
+      "item": "aether:arkenium_shears"
+    }
+
+  },
+
+  "result":
+  {
+    "item": "aercloudengine:wirecutters",
+    "count": 1
+  }
+}

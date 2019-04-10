@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    {
+      "item": "aether:arkenium_strip"
+    },
+
+    {
+      "item": "aether:arkenium_strip"
+    },
+
+    {
+      "item": "aercloudengine:wrench"
+    },
+
+    {
+      "item": "aercloudengine:wirecutters"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "aercloudengine:arkeniumrod",
+    "count": 2
+  }
+}

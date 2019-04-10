@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "ingredients":
+  [
+    {
+      "item": "aether:ambrosium_shard"
+    }
+  ],
+
+  "result":
+  {
+    "item": "aercloudengine:ambrosiumnugget",
+    "count": 4
+   }
+  }

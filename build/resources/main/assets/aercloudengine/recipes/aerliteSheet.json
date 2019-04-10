@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    {
+      "item": "aether:golden_amber"
+    },
+    {
+      "item": "aercloudengine:cloudwoolsheet"
+    }
+  ],
+
+  "result":
+  {
+    "item": "aercloudengine:aerliteinsulation",
+    "count": 1
+  }
+}

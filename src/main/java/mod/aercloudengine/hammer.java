@@ -33,7 +33,7 @@ public class hammer extends aercloudengine.ModElement {
 
         public ItemCustom() {
             setMaxDamage(0);
-            maxStackSize = 16;
+            maxStackSize = 1;
             setTranslationKey("hammer");
             setRegistryName("hammer");
             setCreativeTab(tabaercloudEngine.tab);
@@ -56,9 +56,19 @@ public class hammer extends aercloudengine.ModElement {
         }
 
         @Override
-        public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
-            super.addInformation(itemstack, world, list, flag);
-            list.add("Crafting tool");
+        public ItemStack getContainerItem(ItemStack itemstack) {
+
+            ItemStack item = itemstack.copy();
+            item.setCount(1);
+            return item;
+
+
+        }
+
+        @Override
+
+        public boolean hasContainerItem(ItemStack stack) {
+            return true;
         }
     }
 }

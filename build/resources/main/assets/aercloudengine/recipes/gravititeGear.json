@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    " G ",
+    "GAG",
+    " G "
+  ],
+
+  "key":{
+
+    "A": {
+      "item": "aercloudengine:arkeniumgear"
+    },
+
+    "G": {
+      "item": "aether:gravitite_plate"
+    }
+
+  },
+
+  "result":
+  {
+    "item": "aercloudengine:gravititegear",
+    "count": 1
+  }
+}
