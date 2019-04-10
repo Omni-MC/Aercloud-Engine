@@ -28,9 +28,9 @@ I am a heavy follower of Aether lore so there will only be items that fit for ce
 
 ### High Priority
 
--Make Arkenium wire compatible with forge power, RF, EU, Mj, and µI.
+-Screws
 
--Add a basic generator
+-Plates
 
 -Valkyrie Metal ore
 
@@ -41,9 +41,11 @@ I am a heavy follower of Aether lore so there will only be items that fit for ce
 
 -Ex Nihilo ore chunks and pieces.
 
--Screws
+-Make Arkenium wire compatible with forge power, RF, EU, Mj, and µI.
 
--Plates
+-Add a basic generator
+
+-Make tools take damage upon crafting
 
 
 ### Low Priority
