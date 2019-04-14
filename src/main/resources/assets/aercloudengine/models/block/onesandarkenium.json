@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/oresandarkenium",
+    "up": "blocks/oresandarkenium",
+    "north": "blocks/oresandarkenium",
+    "east": "blocks/oresandarkenium",
+    "south": "blocks/oresandarkenium",
+    "west": "blocks/oresandarkenium",
+    "particle": "blocks/oresandarkenium"
+  }
+}

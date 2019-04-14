@@ -36,7 +36,7 @@ public class skyrootGear extends aercloudengine.ModElement {
 			maxStackSize = 16;
 			setTranslationKey("skyrootgear");
 			setRegistryName("skyrootgear");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

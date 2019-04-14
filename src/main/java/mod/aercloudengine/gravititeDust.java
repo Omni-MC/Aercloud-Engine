@@ -36,7 +36,7 @@ public class gravititeDust extends aercloudengine.ModElement {
 			maxStackSize = 64;
 			setTranslationKey("gravititedust");
 			setRegistryName("gravititedust");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

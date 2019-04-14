@@ -36,7 +36,7 @@ public class holystoneGear extends aercloudengine.ModElement {
 			maxStackSize = 16;
 			setTranslationKey("holystonegear");
 			setRegistryName("holystonegear");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 
@@ -58,9 +58,7 @@ public class holystoneGear extends aercloudengine.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("Once used");
-			list.add("in ancient times");
-			list.add("to construct semi-complex machines for mining and production.");
+			list.add("Once used in ancient times to construct semi-complex machines for mining and production.");
 		}
 	}
 }

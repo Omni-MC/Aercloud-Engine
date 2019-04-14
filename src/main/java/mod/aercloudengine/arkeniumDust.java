@@ -36,7 +36,7 @@ public class arkeniumDust extends aercloudengine.ModElement {
 			maxStackSize = 64;
 			setTranslationKey("arkeniumdust");
 			setRegistryName("arkeniumdust");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

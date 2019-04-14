@@ -36,7 +36,7 @@ public class valkyrieNugget extends aercloudengine.ModElement {
 			maxStackSize = 64;
 			setTranslationKey("valkyrienugget");
 			setRegistryName("valkyrienugget");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

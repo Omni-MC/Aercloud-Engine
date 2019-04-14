@@ -36,7 +36,7 @@ public class arkeniumGear extends aercloudengine.ModElement {
 			maxStackSize = 16;
 			setTranslationKey("arkeniumgear");
 			setRegistryName("arkeniumgear");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

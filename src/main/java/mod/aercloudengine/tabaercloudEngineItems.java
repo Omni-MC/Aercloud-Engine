@@ -6,9 +6,9 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraft.item.ItemStack;
 import net.minecraft.creativetab.CreativeTabs;
 
-public class tabaercloudEngine extends aercloudengine.ModElement {
+public class tabaercloudEngineItems extends aercloudengine.ModElement {
 
-	public static CreativeTabs tab = new CreativeTabs("tabaercloudengine") {
+	public static CreativeTabs tab = new CreativeTabs("tabaercloudengineitems") {
 
 		@SideOnly(Side.CLIENT)
 		@Override

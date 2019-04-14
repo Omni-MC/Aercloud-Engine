@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/oresandgravitite",
+    "up": "blocks/oresandgravitite",
+    "north": "blocks/oresandgravitite",
+    "east": "blocks/oresandgravitite",
+    "south": "blocks/oresandgravitite",
+    "west": "blocks/oresandgravitite",
+    "particle": "blocks/oresandgravitite"
+  }
+}

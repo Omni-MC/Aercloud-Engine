@@ -36,7 +36,7 @@ public class gravititeGear extends aercloudengine.ModElement {
 			maxStackSize = 16;
 			setTranslationKey("gravititegear");
 			setRegistryName("gravititegear");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

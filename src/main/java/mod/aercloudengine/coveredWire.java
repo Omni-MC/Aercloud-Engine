@@ -36,7 +36,7 @@ public class coveredWire extends aercloudengine.ModElement {
             maxStackSize = 32;
             setTranslationKey("coveredwire");
             setRegistryName("coveredwire");
-            setCreativeTab(tabaercloudEngine.tab);
+            setCreativeTab(tabaercloudEngineItems.tab);
             ForgeRegistries.ITEMS.register(this);
         }
 

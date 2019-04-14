@@ -36,7 +36,7 @@ public class cloudwoolSheet extends aercloudengine.ModElement {
             maxStackSize = 32;
             setTranslationKey("cloudwoolsheet");
             setRegistryName("cloudwoolsheet");
-            setCreativeTab(tabaercloudEngine.tab);
+            setCreativeTab(tabaercloudEngineItems.tab);
             ForgeRegistries.ITEMS.register(this);
         }
 

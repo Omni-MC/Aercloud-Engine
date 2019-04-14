@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/orevalkyriemetal",
+    "up": "blocks/orevalkyriemetal",
+    "north": "blocks/orevalkyriemetal",
+    "east": "blocks/orevalkyriemetal",
+    "south": "blocks/orevalkyriemetal",
+    "west": "blocks/orevalkyriemetal",
+    "particle": "blocks/orevalkyriemetal"
+  }
+}

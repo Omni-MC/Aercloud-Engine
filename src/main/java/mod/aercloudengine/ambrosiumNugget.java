@@ -36,7 +36,7 @@ public class ambrosiumNugget extends aercloudengine.ModElement {
 			maxStackSize = 64;
 			setTranslationKey("ambrosiumnugget");
 			setRegistryName("ambrosiumnugget");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

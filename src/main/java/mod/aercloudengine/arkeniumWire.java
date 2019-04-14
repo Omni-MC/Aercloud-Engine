@@ -36,7 +36,7 @@ public class arkeniumWire extends aercloudengine.ModElement {
             maxStackSize = 32;
             setTranslationKey("arkeniumwire");
             setRegistryName("arkeniumwire");
-            setCreativeTab(tabaercloudEngine.tab);
+            setCreativeTab(tabaercloudEngineItems.tab);
             ForgeRegistries.ITEMS.register(this);
         }
 

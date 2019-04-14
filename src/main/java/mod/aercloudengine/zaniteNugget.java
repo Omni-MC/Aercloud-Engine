@@ -36,7 +36,7 @@ public class zaniteNugget extends aercloudengine.ModElement {
 			maxStackSize = 64;
 			setTranslationKey("zanitenugget");
 			setRegistryName("zanitenugget");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

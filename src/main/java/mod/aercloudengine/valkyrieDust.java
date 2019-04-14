@@ -36,7 +36,7 @@ public class valkyrieDust extends aercloudengine.ModElement {
 			maxStackSize = 64;
 			setTranslationKey("valkyriedust");
 			setRegistryName("valkyriedust");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

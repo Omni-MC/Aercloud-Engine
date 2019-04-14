@@ -4,15 +4,11 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.common.registry.ForgeRegistries;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-import net.minecraft.world.World;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
-import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.client.Minecraft;
 import net.minecraft.block.state.IBlockState;
-
-import java.util.List;
 
 public class wirecutters extends aercloudengine.ModElement {
 
@@ -36,7 +32,7 @@ public class wirecutters extends aercloudengine.ModElement {
             maxStackSize = 1;
             setTranslationKey("wirecutters");
             setRegistryName("wirecutters");
-            setCreativeTab(tabaercloudEngine.tab);
+            setCreativeTab(tabaercloudEngineItems.tab);
             ForgeRegistries.ITEMS.register(this);
         }
 

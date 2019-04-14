@@ -36,7 +36,7 @@ public class arkeniumNugget extends aercloudengine.ModElement {
 			maxStackSize = 64;
 			setTranslationKey("arkeniumnugget");
 			setRegistryName("arkeniumnugget");
-			setCreativeTab(tabaercloudEngine.tab);
+			setCreativeTab(tabaercloudEngineItems.tab);
 			ForgeRegistries.ITEMS.register(this);
 		}
 

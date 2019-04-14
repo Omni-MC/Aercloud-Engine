@@ -94,29 +94,70 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 	}
 
 	static {
-		elements.add(new tabaercloudEngine());
-		elements.add(new gravititeGear());
-		elements.add(new arkeniumGear());
-		elements.add(new skyrootGear());
-		elements.add(new holystoneGear());
-		elements.add(new zaniteGear());
-		elements.add(new valkyrieGear());
-		elements.add(new gravititeNugget());
-		elements.add(new arkeniumNugget());
-		elements.add(new zaniteNugget());
-		elements.add(new valkyrieNugget());
-		elements.add(new ambrosiumNugget());
-		elements.add(new gravititeDust());
-		elements.add(new arkeniumDust());
-		elements.add(new valkyrieDust());
-		elements.add(new arkeniumRod());
-		elements.add(new aerliteSheet());
-		elements.add(new cloudwoolSheet());
-		elements.add(new coveredWire());
-		elements.add(new arkeniumWire());
-		elements.add(new wirecutters());
-		elements.add(new hammer());
-		elements.add(new wrench());
+	    //tabs
+        elements.add(new tabaercloudEngineItems());
+
+	    //gears
+        elements.add(new arkeniumGear());
+        elements.add(new gravititeGear());
+        elements.add(new holystoneGear());
+        elements.add(new skyrootGear());
+        elements.add(new valkyrieGear());
+        elements.add(new zaniteGear());
+
+        //nuggets
+        elements.add(new gravititeNugget());
+        elements.add(new arkeniumNugget());
+        elements.add(new zaniteNugget());
+        elements.add(new valkyrieNugget());
+        elements.add(new ambrosiumNugget());
+
+        //ores
+
+                //orechunks
+        elements.add(new brokenAmbrosiumOre());
+        elements.add(new brokenZaniteOre());
+        elements.add(new brokenArkeniumOre());
+        elements.add(new brokenGravititeOre());
+        elements.add(new brokenValkyrieOre());
+
+                //orepieces
+        elements.add(new pieceAmbrosiumOre());
+        elements.add(new pieceZaniteOre());
+        elements.add(new pieceArkeniumOre());
+        elements.add(new pieceGravititeOre());
+        elements.add(new pieceValkyrieOre());
+
+        		//oreblocks
+		elements.add(new oreValkyrieMetal());
+
+				//oresands
+		elements.add(new oreSandAmbrosium());
+		elements.add((new oreSandZanite()));
+		elements.add(new oreSandGravitite());
+		elements.add(new oreSandArkenium());
+
+        //dusts
+        elements.add(new gravititeDust());
+        elements.add(new arkeniumDust());
+        elements.add(new valkyrieDust());
+
+        //tools
+        elements.add(new wirecutters());
+        elements.add(new hammer());
+        elements.add(new wrench());
+
+        //rods
+        elements.add(new arkeniumRod());
+
+        //wires
+        elements.add(new coveredWire());
+        elements.add(new arkeniumWire());
+
+		//misc
+        elements.add(new aerliteSheet());
+        elements.add(new cloudwoolSheet());
+
 	}
 
 	public static class ModElement {

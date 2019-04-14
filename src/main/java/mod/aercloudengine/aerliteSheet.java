@@ -36,7 +36,7 @@ public class aerliteSheet extends aercloudengine.ModElement {
             maxStackSize = 32;
             setTranslationKey("aerliteinsulation");
             setRegistryName("aerliteinsulation");
-            setCreativeTab(tabaercloudEngine.tab);
+            setCreativeTab(tabaercloudEngineItems.tab);
             ForgeRegistries.ITEMS.register(this);
         }
 
