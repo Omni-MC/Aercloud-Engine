@@ -44,8 +44,8 @@ public class oreSandArkenium extends aercloudengine.ModElement {
     public static class BlockCustom extends Block {
 
         public BlockCustom() {
-            super(Material.ROCK);
-            setSoundType(SoundType.STONE);
+            super(Material.SAND);
+            setSoundType(SoundType.SAND);
         }
 
         @Override

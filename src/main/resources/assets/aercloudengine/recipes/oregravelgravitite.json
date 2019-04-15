@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "aercloudengine:tabaercloudengine",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "aercloudengine:brokengravitite"
+    }
+  },
+  "result": {
+    "item": "aercloudengine:oregravelgravitite",
+    "count": 1
+  }
+}

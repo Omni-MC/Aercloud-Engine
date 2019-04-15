@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "aercloudengine:tabaercloudengine",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "aercloudengine:brokenarkenium"
+    }
+  },
+  "result": {
+    "item": "aercloudengine:oregravelarkenium",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/oregravelambrosium",
+    "up": "blocks/oregravelambrosium",
+    "north": "blocks/oregravelambrosium",
+    "east": "blocks/oregravelambrosium",
+    "south": "blocks/oregravelambrosium",
+    "west": "blocks/oregravelambrosium",
+    "particle": "blocks/oregravelambrosium"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/oregravelvalkyrie",
+    "up": "blocks/oregravelvalkyrie",
+    "north": "blocks/oregravelvalkyrie",
+    "east": "blocks/oregravelvalkyrie",
+    "south": "blocks/oregravelvalkyrie",
+    "west": "blocks/oregravelvalkyrie",
+    "particle": "blocks/oregravelvalkyrie"
+  }
+}

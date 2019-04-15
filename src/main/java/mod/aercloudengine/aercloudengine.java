@@ -1,5 +1,6 @@
 package mod.aercloudengine;
 
+import mod.aercloudengine.init.FurnaceRecipes;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.common.network.NetworkRegistry;
@@ -50,6 +51,8 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 	public void generate(final Random random, int chunkX, int chunkZ, final World world, IChunkGenerator chunkGenerator, IChunkProvider chunkProvider) {
 		final int f_chunkX = chunkX * 16;
 		final int f_chunkZ = chunkZ * 16;
+		if (world.provider.getDimension() == 4)
+			elements.forEach(element -> element.generateAether(world, random, f_chunkX, f_chunkZ));
 		if (world.provider.getDimension() == -1)
 			elements.forEach(element -> element.generateNether(world, random, f_chunkX, f_chunkZ));
 		if (world.provider.getDimension() == 0)
@@ -97,6 +100,9 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 	    //tabs
         elements.add(new tabaercloudEngineItems());
 
+        //smelting
+		elements.add(new FurnaceRecipes());
+
 	    //gears
         elements.add(new arkeniumGear());
         elements.add(new gravititeGear());
@@ -111,8 +117,6 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
         elements.add(new zaniteNugget());
         elements.add(new valkyrieNugget());
         elements.add(new ambrosiumNugget());
-
-        //ores
 
                 //orechunks
         elements.add(new brokenAmbrosiumOre());
@@ -136,6 +140,14 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 		elements.add((new oreSandZanite()));
 		elements.add(new oreSandGravitite());
 		elements.add(new oreSandArkenium());
+		elements.add(new oreSandValkyrie());
+
+				//oregravels
+		elements.add(new oreGravelAmbrosium());
+		elements.add(new oreGravelZanite());
+		elements.add(new oreGravelArkenium());
+		elements.add(new oreGravelGravitite());
+		elements.add(new oreGravelValkyrie());
 
         //dusts
         elements.add(new gravititeDust());
@@ -157,6 +169,10 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 		//misc
         elements.add(new aerliteSheet());
         elements.add(new cloudwoolSheet());
+        elements.add(new cokedAmbrosium());
+
+        //plates
+		elements.add(new valkyrieMetalPlate());
 
 	}
 
@@ -171,6 +187,9 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 		}
 
 		public void generateSurface(World world, Random random, int chunkX, int chunkZ) {
+		}
+
+		public void generateAether(World world, Random random, int chunkX, int chunkZ) {
 		}
 
 		public void serverLoad(FMLServerStartingEvent event) {
