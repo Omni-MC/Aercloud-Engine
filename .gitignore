@@ -11,7 +11,6 @@ gradle-app.setting
 *.iml
 *.iws
 *.ipr
-*.xml
 
 ## Eclipse
 
@@ -41,8 +40,3 @@ local.properties
 
 # PDT-specific
 .buildpath
-.gradle/4.4/fileContent/fileContent.lock
-run/usernamecache.json
-run/usercache.json
-run/saves
-build/
