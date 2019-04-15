@@ -42,5 +42,7 @@ local.properties
 # PDT-specific
 .buildpath
 .gradle/4.4/fileContent/fileContent.lock
-build/classes/java/main/mod/aercloudengine/arkeniumNugget$ItemCustom.class
-run/logs/latest.log
+run/usernamecache.json
+run/usercache.json
+run/saves
+build/
