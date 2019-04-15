@@ -11,6 +11,7 @@ gradle-app.setting
 *.iml
 *.iws
 *.ipr
+*.xml
 
 ## Eclipse
 
@@ -40,3 +41,6 @@ local.properties
 
 # PDT-specific
 .buildpath
+.gradle/4.4/fileContent/fileContent.lock
+build/classes/java/main/mod/aercloudengine/arkeniumNugget$ItemCustom.class
+run/logs/latest.log
