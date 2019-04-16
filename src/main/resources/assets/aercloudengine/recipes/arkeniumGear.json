@@ -13,7 +13,8 @@
   "key":{
 
     "H": {
-      "item": "aercloudengine:holystonegear"
+      "type": "forge:ore_dict",
+      "ore": "gearStone"
     },
 
     "A": {

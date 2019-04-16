@@ -3,7 +3,7 @@
     "modid": "aercloudengine",
     "name": "Aercloud Engine",
     "description": "Adds dusts, ingots, and gears for aether materials.",
-    "version": "1.5",
+    "version": "1.6",
     "credits": "Base made in MCreator. Item's after 1.1 added in IntelliJ.",
     "logoFile": "assets/minecraft/aercloud engine.png",
     "mcversion": "1.12.2",

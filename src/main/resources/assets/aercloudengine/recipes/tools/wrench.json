@@ -29,7 +29,8 @@
     },
 
     "G": {
-      "item": "aercloudengine:holystonegear"
+      "type": "forge:ore_dict",
+      "ore": "gearStone"
     }
 
   },

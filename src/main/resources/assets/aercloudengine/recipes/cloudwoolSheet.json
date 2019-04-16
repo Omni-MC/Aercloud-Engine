@@ -7,7 +7,8 @@
       "item": "aether:cloudwool_carpet"
     },
     {
-      "item": "aercloudengine:wirecutters"
+      "type": "forge:ore_dict",
+      "ore": "toolWirecutter"
     }
   ],
 

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    "VVV",
+    " B ",
+    " B "
+  ],
+
+  "key":{
+
+    "V": {
+      "item": "aercloudengine:valkyriemetalplate"
+    },
+
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+
+  },
+
+  "result":
+  {
+    "item": "aether_legacy:valkyrie_pickaxe",
+    "count": 1
+  }
+}

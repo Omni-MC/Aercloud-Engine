@@ -12,13 +12,14 @@
     },
 
     {
-      "item": "aercloudengine:wrench"
+      "type": "forge:ore_dict",
+      "ore": "toolWrench"
     },
 
     {
-      "item": "aercloudengine:wirecutters"
+      "type": "forge:ore_dict",
+      "ore": "toolWirecutter"
     }
-
   ],
 
   "result":

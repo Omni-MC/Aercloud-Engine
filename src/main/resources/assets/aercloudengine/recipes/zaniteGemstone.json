@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+
+  "key":{
+
+    "N": {
+      "item": "aercloudengine:zanitenugget"
+    }
+
+  },
+
+  "result":
+  {
+    "item": "aether:zanite_gemstone",
+    "count": 1
+  }
+}

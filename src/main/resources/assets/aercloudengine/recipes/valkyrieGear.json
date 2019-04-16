@@ -5,28 +5,28 @@
 
   "pattern":
   [
-    " G ",
-    "GAG",
-    " G "
+    " V ",
+    "VGV",
+    " V "
   ],
 
   "key":{
 
-    "A": {
+    "V": {
       "type": "forge:ore_dict",
-      "ore": "gearIron"
-
+      "ore": "ingotValkyrie"
     },
 
     "G": {
-      "item": "aether:gravitite_plate"
+      "type": "forge:ore_dict",
+      "ore": "gearGravitite"
     }
 
   },
 
   "result":
   {
-    "item": "aercloudengine:gravititegear",
+    "item": "aercloudengine:valkyriegear",
     "count": 1
   }
 }

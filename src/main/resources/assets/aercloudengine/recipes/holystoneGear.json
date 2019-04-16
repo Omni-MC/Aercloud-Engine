@@ -13,12 +13,13 @@
   "key":{
 
     "S": {
-      "item": "aercloudengine:skyrootgear"
+      "type": "forge:ore_dict",
+      "ore": "gearWood"
     },
 
     "H": {
       "item": "aether:holystone",
-      "data": 0
+      "data": 32767
     }
 
   },

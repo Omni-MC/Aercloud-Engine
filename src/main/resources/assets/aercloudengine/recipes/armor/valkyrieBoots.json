@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    "V V",
+    "V V"
+  ],
+
+  "key":{
+
+    "V": {
+      "item": "aercloudengine:valkyriemetalplate"
+    }
+
+  },
+
+  "result":
+  {
+    "item": "aether_legacy:valkyrie_boots",
+    "count": 1
+  }
+}

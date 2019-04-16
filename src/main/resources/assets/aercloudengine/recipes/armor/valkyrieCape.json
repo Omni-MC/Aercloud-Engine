@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "aercloudengine:tabaercloudengine",
+
+  "pattern":
+  [
+    "VVV",
+    "VCV",
+    "VVV"
+  ],
+
+  "key":{
+
+    "V": {
+      "item": "aercloudengine:valkyriemetalplate"
+    },
+
+    "C": {
+      "item": "aether_legacy:agility_cape"
+
+    }
+
+  },
+
+  "result":
+  {
+    "item": "aether_legacy:valkyrie_cape",
+    "count": 1
+  }
+}

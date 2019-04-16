@@ -13,7 +13,8 @@
   "key":{
 
     "S": {
-      "item": "aercloudengine:skyrootgear"
+      "type": "forge:ore_dict",
+      "ore": "gearWood"
     },
 
     "Z": {

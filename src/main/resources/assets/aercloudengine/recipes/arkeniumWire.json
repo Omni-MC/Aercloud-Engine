@@ -7,10 +7,12 @@
       "item": "aether:arkenium_strip"
     },
     {
-      "item": "aercloudengine:wirecutters"
+      "type": "forge:ore_dict",
+      "ore": "toolWirecutter"
     },
     {
-      "item": "aercloudengine:wrench"
+      "type": "forge:ore_dict",
+      "ore": "toolWrench"
     }
   ],
 

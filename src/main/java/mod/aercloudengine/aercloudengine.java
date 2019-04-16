@@ -1,5 +1,6 @@
 package mod.aercloudengine;
 
+import mod.aercloudengine.handlers.OreDictionaryHandler;
 import mod.aercloudengine.init.FurnaceRecipes;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.common.registry.GameRegistry;
@@ -21,6 +22,7 @@ import net.minecraft.world.chunk.IChunkProvider;
 import net.minecraft.world.World;
 import net.minecraft.item.ItemStack;
 import net.minecraft.entity.player.EntityPlayer;
+import net.minecraftforge.oredict.OreDictionary;
 
 import java.util.Random;
 import java.util.List;
@@ -30,7 +32,7 @@ import java.util.ArrayList;
 public class aercloudengine implements IFuelHandler, IWorldGenerator {
 
 	public static final String MODID = "aercloudengine";
-	public static final String VERSION = "1.5";
+	public static final String VERSION = "1.6";
 	@SidedProxy(clientSide = "mod.aercloudengine.ClientProxyaercloudengine", serverSide = "mod.aercloudengine.CommonProxyaercloudengine")
 	public static CommonProxyaercloudengine proxy;
 	@Instance(MODID)
@@ -61,6 +63,7 @@ public class aercloudengine implements IFuelHandler, IWorldGenerator {
 
 	@EventHandler
 	public void load(FMLInitializationEvent event) {
+        OreDictionaryHandler.registerOreDictionary();
 		GameRegistry.registerFuelHandler(this);
 		GameRegistry.registerWorldGenerator(this, 5);
 		NetworkRegistry.INSTANCE.registerGuiHandler(this, new GuiHandler());

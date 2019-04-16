@@ -6,16 +6,20 @@
   "ingredients":
   [
     {
-      "item": "aercloudengine:ambrosiumnugget"
+      "type": "forge:ore_dict",
+      "ore": "nuggetAmbrosium"
     },
     {
-      "item": "aercloudengine:ambrosiumnugget"
+      "type": "forge:ore_dict",
+      "ore": "nuggetAmbrosium"
     },
     {
-      "item": "aercloudengine:ambrosiumnugget"
+      "type": "forge:ore_dict",
+      "ore": "nuggetAmbrosium"
     },
     {
-      "item": "aercloudengine:ambrosiumnugget"
+      "type": "forge:ore_dict",
+      "ore": "nuggetAmbrosium"
     }
   ],
 
